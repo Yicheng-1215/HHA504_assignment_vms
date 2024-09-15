@@ -1,0 +1,7 @@
+Compare of the cost comparison of the costs between the two platforms.
+GCP: The billing section was very clear, making it very easy for the user to monitor costs and see real-time updates on expenses for the VM. This made tracking and managing resources very efficient.
+Azure: I was stuck on the first step due to the current permissions set by Stony Brook. Therefore I wasn't able to successfully create the VM and start it
+
+Reflections on the experience of using Azure and GCP for VM management.
+GCP: GCP is very straightforward to use and user-friendly, with a clear layout that allows quick access to Compute Engine and other services. I set up the VM with the basic e2-micro instance and Debian GNU/Linux operating system. The stop process is also very easy just to click the 3 dots then stop it.
+Azure:I tried to create the VM but was stuck on the first step due to the current permissions set by Stony Brook. However, from what I can access right now, I think Azure's setting process is also easy and straightforward to select the configuration. However, because of the permission limitations, I couldn't fully assess it this time.
